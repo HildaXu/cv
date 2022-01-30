@@ -1,6 +1,6 @@
 # cv
 
-Personal website built by using HTML and CSS. 
+Personal website built by using HTML and CSS. This is my first web development project.
 
 ## Acknowledgement
 
